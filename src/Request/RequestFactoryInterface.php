@@ -1,6 +1,6 @@
 <?php
 
-namespace Psr\Http\Factory;
+namespace Psr\Http\Factory\Request;
 
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\UriInterface;
